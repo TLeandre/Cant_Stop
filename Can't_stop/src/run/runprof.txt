@@ -1,0 +1,262 @@
+Démarrage du dernier run à : 2022/12/21 22:05:27
+Stratégies lancées : [11, 12, 13, 15, 17, 18, 21, 22, 24, 25, 26, 27, 29, 31, 32, 33, 35, 36, 37, 39, 40, 41, 43, 44, 45, 46, 47, 49, 50, 51, 52, 55, 56, 58, 59, 60, 62, 63, 65, 67, 69, 70, 72, 75, 76, 77, 79, 80, 81, 83, 84, 85, 88, 90, 91, 93, 96, 97, 98, 100, 102, 103, 104, 106, 109, 110, 111, 113, 115, 117, 118, 119, 121, 122, 123, 124, 126, 127, 128, 129, 130, 132, 133, 135, 136, 138, 139, 141, 142, 143, 144, 145, 147, 148, 150, 151, 152, 154, 155, 158, 159, 160, 161, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 174, 176, 178, 179, 180, 182, 184, 186, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 205, 210, 211, 212, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 226, 227, 229, 231, 232, 233, 234, 236, 237, 239, 240, 241, 242, 244, 245, 246, 249, 250, 251, 252, 253, 254, 255, 256, 257, 259, 260, 263, 264, 265, 268, 269, 270, 271, 272, 274, 275, 276, 277, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 295, 296, 297, 298, 299, 300, 301, 304, 307, 308, 309, 311, 312, 314, 315, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 333, 334, 335, 336, 337, 338, 339, 341, 342, 343, 344, 345, 346, 348, 349, 350, 351, 353]
+Strat 12 (Baptiste Bary ) échoue face à 0 (Stratégie mauvaise) : victoires : 333 / défaites : 1667
+Strat 15 (La strat incroyable holala) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+Strat 26 (Baptiste Bary ) échoue face à 0 (Stratégie mauvaise) : victoires : 443 / défaites : 1557
+Strat 40 (LÃ©onie Berthelot) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+Strat 56 (CELESTINE BRES) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+Strat 59 (RAPHAEL BROCHENIN) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+Strat 96 (ETIENNE DAM HIEU) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+Strat 113 (CELIA DESSAINT) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+Strat 117 (EDDY DORSY) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+Strat 130 (RHIZLAINE EL HOUSNY) échoue face à 0 (Stratégie mauvaise) : victoires : 6 / défaites : 1994
+Strat 136 (CLÉO FOURÉ) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+Strat 216 (NOÉ MAGNIN) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+Strat 232 (LUCAS MONNANTEUIL) échoue face à 0 (Stratégie mauvaise) : victoires : 203 / défaites : 1797
+Strat 236 (TIMOTHEE MORMIL) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+Strat 245 (JAYKUMAR PATEL) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+Strat 256 (Timothée Plée) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+Strat 287 (NATHAN SEBBAG) échoue face à 0 (Stratégie mauvaise) : victoires : 0 / défaites : 2000
+--------- Strat prof --------- Mauvaise --------- Pallier : 1 (indicatif) 
+Strat 77 (CHAVY Romain v2) échoue face à 1 (Stratégie aléatoire) : victoires : 71 / défaites : 1929
+Strat 223 (JULES MARTEL) échoue face à 1 (Stratégie aléatoire) : victoires : 67 / défaites : 1933
+Strat 252 (VOTRE NOM (SOUS FORME PRENOM NOM)) échoue face à 1 (Stratégie aléatoire) : victoires : 74 / défaites : 1926
+--------- Strat prof --------- Aléatoire --------- Pallier : 3 (indicatif) 
+Strat 17 (Zaynab Ait Ahmed) échoue face à 2 (Stratégie basique) : victoires : 738 / défaites : 1262
+Strat 22 (NICOLAS ARNAL) échoue face à 2 (Stratégie basique) : victoires : 815 / défaites : 1185
+Strat 27 (ARNAUD BAYCE-CHALVIN) échoue face à 2 (Stratégie basique) : victoires : 580 / défaites : 1420
+Strat 41 (THANYAMONE BESSON) échoue face à 2 (Stratégie basique) : victoires : 849 / défaites : 1151
+Strat 58 (Théo Brillard) échoue face à 2 (Stratégie basique) : victoires : 560 / défaites : 1440
+Strat 62 (LOUIS CADIOU) échoue face à 2 (Stratégie basique) : victoires : 873 / défaites : 1127
+Strat 63 (AMBRE CAGLIERO) échoue face à 2 (Stratégie basique) : victoires : 732 / défaites : 1268
+Strat 65 (MARIN CARDO) échoue face à 2 (Stratégie basique) : victoires : 633 / défaites : 1367
+Strat 88 (EVAN DENIS) échoue face à 2 (Stratégie basique) : victoires : 766 / défaites : 1234
+Strat 98 (CAMILLE DE GALLE) échoue face à 2 (Stratégie basique) : victoires : 866 / défaites : 1134
+Strat 100 (Jean de Lavallade) échoue face à 2 (Stratégie basique) : victoires : 455 / défaites : 1545
+Strat 102 (BASTIEN DEJARDIN) échoue face à 2 (Stratégie basique) : victoires : 779 / défaites : 1221
+Strat 103 (LOUIS DELBARY) échoue face à 2 (Stratégie basique) : victoires : 837 / défaites : 1163
+Strat 104 (CLEMENT DELBREIL) échoue face à 2 (Stratégie basique) : victoires : 570 / défaites : 1430
+Strat 115 (MARIE DI NUNNO) échoue face à 2 (Stratégie basique) : victoires : 496 / défaites : 1504
+Strat 118 (ARISTIDE DOSSOU-YOVO) échoue face à 2 (Stratégie basique) : victoires : 761 / défaites : 1239
+Strat 121 (RONAEL DUCASSE) échoue face à 2 (Stratégie basique) : victoires : 799 / défaites : 1201
+Strat 122 (MATHIAS DUFLO) échoue face à 2 (Stratégie basique) : victoires : 443 / défaites : 1557
+Strat 126 (Maxime Duval) échoue face à 2 (Stratégie basique) : victoires : 325 / défaites : 1675
+Strat 133 (Matthias ELLERO) échoue face à 2 (Stratégie basique) : victoires : 487 / défaites : 1513
+Strat 138 (ANAIS FRACHON) échoue face à 2 (Stratégie basique) : victoires : 450 / défaites : 1550
+Strat 139 (LOICK GACEK) échoue face à 2 (Stratégie basique) : victoires : 812 / défaites : 1188
+Strat 141 (MARTIN GAUTHIER) échoue face à 2 (Stratégie basique) : victoires : 747 / défaites : 1253
+Strat 151 (PIERRE GROUAS) échoue face à 2 (Stratégie basique) : victoires : 841 / défaites : 1159
+Strat 155 (LUCAS GUILLEMIN) échoue face à 2 (Stratégie basique) : victoires : 507 / défaites : 1493
+Strat 166 (LOUISE-MARIE HENAFF) échoue face à 2 (Stratégie basique) : victoires : 699 / défaites : 1301
+Strat 168 (LOUISE HOSTIOU) échoue face à 2 (Stratégie basique) : victoires : 700 / défaites : 1300
+Strat 171 (SABRINA ISSAAD) échoue face à 2 (Stratégie basique) : victoires : 397 / défaites : 1603
+Strat 176 (Gauthier jaubert) échoue face à 2 (Stratégie basique) : victoires : 217 / défaites : 1783
+Strat 178 (HUGO JOLY) échoue face à 2 (Stratégie basique) : victoires : 805 / défaites : 1195
+Strat 184 (NESRINE KERMEZLI) échoue face à 2 (Stratégie basique) : victoires : 477 / défaites : 1523
+Strat 200 (BENOIT LECLERCQ) échoue face à 2 (Stratégie basique) : victoires : 874 / défaites : 1126
+Strat 201 (Matthieu Lefeuvre) échoue face à 2 (Stratégie basique) : victoires : 708 / défaites : 1292
+Strat 205 (SOLENE LEONARD ) échoue face à 2 (Stratégie basique) : victoires : 671 / défaites : 1329
+Strat 211 (LOURME RÉMY) échoue face à 2 (Stratégie basique) : victoires : 721 / défaites : 1279
+Strat 214 (ARSENE MAGNEN) échoue face à 2 (Stratégie basique) : victoires : 823 / défaites : 1177
+Strat 215 (FLORIAN MAGNET) échoue face à 2 (Stratégie basique) : victoires : 837 / défaites : 1163
+Strat 217 (THIBAULT MAGNIN) échoue face à 2 (Stratégie basique) : victoires : 740 / défaites : 1260
+Strat 218 (FLORIAN MAHIEUX) échoue face à 2 (Stratégie basique) : victoires : 494 / défaites : 1506
+Strat 234 (LUC MOREAU) échoue face à 2 (Stratégie basique) : victoires : 516 / défaites : 1484
+Strat 240 (JULIEN NAMYST) échoue face à 2 (Stratégie basique) : victoires : 450 / défaites : 1550
+Strat 244 (Nathan Rousseau 2) échoue face à 2 (Stratégie basique) : victoires : 828 / défaites : 1172
+Strat 249 (MATTHIS PERS) échoue face à 2 (Stratégie basique) : victoires : 475 / défaites : 1525
+Strat 253 (YANN PICHOT) échoue face à 2 (Stratégie basique) : victoires : 537 / défaites : 1463
+Strat 254 (JADE-HELOISE PIREAUX) échoue face à 2 (Stratégie basique) : victoires : 734 / défaites : 1266
+Strat 257 (Paul-Arthur Poitevin) échoue face à 2 (Stratégie basique) : victoires : 640 / défaites : 1360
+Strat 263 (THOMAS RAMACKERS) échoue face à 2 (Stratégie basique) : victoires : 751 / défaites : 1249
+Strat 271 (Nayri Rojas Medina) échoue face à 2 (Stratégie basique) : victoires : 806 / défaites : 1194
+Strat 274 (FRANCK RONZEAU) échoue face à 2 (Stratégie basique) : victoires : 822 / défaites : 1178
+Strat 285 (SCHAMPS GAUTHIER) échoue face à 2 (Stratégie basique) : victoires : 480 / défaites : 1520
+Strat 292 (ETHAN RACADOT) échoue face à 2 (Stratégie basique) : victoires : 823 / défaites : 1177
+Strat 296 (SOFIAN SMOUNI) échoue face à 2 (Stratégie basique) : victoires : 827 / défaites : 1173
+Strat 300 (LOUISE TALBI) échoue face à 2 (Stratégie basique) : victoires : 688 / défaites : 1312
+Strat 311 (NICOLAS STOCKINGER v1.1) échoue face à 2 (Stratégie basique) : victoires : 839 / défaites : 1161
+Strat 324 (EVA VUILLEMIN) échoue face à 2 (Stratégie basique) : victoires : 707 / défaites : 1293
+Strat 335 (HAMZA ARIF) échoue face à 2 (Stratégie basique) : victoires : 648 / défaites : 1352
+--------- Strat prof --------- Basique --------- Pallier : 8 (indicatif) 
+Strat 11 (PB v2) échoue face à 7 (Humeau Minimale) : victoires : 818 / défaites : 1182
+Strat 13 (BP v2.13) échoue face à 7 (Humeau Minimale) : victoires : 696 / défaites : 1304
+Strat 18 ( Jonathan ALBECQ ) échoue face à 7 (Humeau Minimale) : victoires : 563 / défaites : 1437
+Strat 21 (JULIE AMELINE) échoue face à 7 (Humeau Minimale) : victoires : 672 / défaites : 1328
+Strat 24 (SARAH BARDIAUX) échoue face à 7 (Humeau Minimale) : victoires : 617 / défaites : 1383
+Strat 25 (LUCAS BARRAUD) échoue face à 7 (Humeau Minimale) : victoires : 822 / défaites : 1178
+Strat 29 (NAIM v2.4) échoue face à 7 (Humeau Minimale) : victoires : 836 / défaites : 1164
+Strat 31 (LOUISE BECU) échoue face à 7 (Humeau Minimale) : victoires : 823 / défaites : 1177
+Strat 32 (INES BELFODIL) échoue face à 7 (Humeau Minimale) : victoires : 848 / défaites : 1152
+Strat 33 (BELGUIZ ADEM) échoue face à 7 (Humeau Minimale) : victoires : 812 / défaites : 1188
+Strat 35 (BOUBKER BENNANI) échoue face à 7 (Humeau Minimale) : victoires : 519 / défaites : 1481
+Strat 36 (OTHMANE BENZARHOUNI v3) échoue face à 7 (Humeau Minimale) : victoires : 671 / défaites : 1329
+Strat 39 (Sinclair 1) échoue face à 7 (Humeau Minimale) : victoires : 867 / défaites : 1133
+Strat 43 (AMBRE BIGNON !) échoue face à 7 (Humeau Minimale) : victoires : 697 / défaites : 1303
+Strat 45 (CHARLOTTE BLOUIN) échoue face à 7 (Humeau Minimale) : victoires : 395 / défaites : 1605
+Strat 46 (THEO BONNEROT-FESTA) échoue face à 7 (Humeau Minimale) : victoires : 622 / défaites : 1378
+Strat 47 (ALEXIS BORD) échoue face à 7 (Humeau Minimale) : victoires : 564 / défaites : 1436
+Strat 49 (BP v2.49_1) échoue face à 7 (Humeau Minimale) : victoires : 804 / défaites : 1196
+Strat 50 (ANTONIN BOUILLAUD) échoue face à 7 (Humeau Minimale) : victoires : 472 / défaites : 1528
+Strat 51 (NOAH BOULEDROUA) échoue face à 7 (Humeau Minimale) : victoires : 861 / défaites : 1139
+Strat 52 (NATHAN BOULLIER) échoue face à 7 (Humeau Minimale) : victoires : 555 / défaites : 1445
+Strat 60 (Paul BRUETSCHY) échoue face à 7 (Humeau Minimale) : victoires : 495 / défaites : 1505
+Strat 67 (Mattéo CAUX) échoue face à 7 (Humeau Minimale) : victoires : 520 / défaites : 1480
+Strat 69 (NILS CHABOT) échoue face à 7 (Humeau Minimale) : victoires : 715 / défaites : 1285
+Strat 70 (FLORE CHALM) échoue face à 7 (Humeau Minimale) : victoires : 380 / défaites : 1620
+Strat 72 (Axel Chandelier) échoue face à 7 (Humeau Minimale) : victoires : 790 / défaites : 1210
+Strat 75 (ANTHONY CHARREYRON) échoue face à 7 (Humeau Minimale) : victoires : 855 / défaites : 1145
+Strat 76 (TRISTAN CHAUVEAU) échoue face à 7 (Humeau Minimale) : victoires : 455 / défaites : 1545
+Strat 79 (ARTHUR CHEVASSUT) échoue face à 7 (Humeau Minimale) : victoires : 796 / défaites : 1204
+Strat 80 (JULES CHOUAKI) échoue face à 7 (Humeau Minimale) : victoires : 821 / défaites : 1179
+Strat 83 (VIRGILE COPIN + ptit patch) échoue face à 7 (Humeau Minimale) : victoires : 823 / défaites : 1177
+Strat 84 (AUGUSTIN CORONAT) échoue face à 7 (Humeau Minimale) : victoires : 800 / défaites : 1200
+Strat 90 (ERWAN COYAUD) échoue face à 7 (Humeau Minimale) : victoires : 796 / défaites : 1204
+Strat 93 (VICTOR CURTIL v0.4) échoue face à 7 (Humeau Minimale) : victoires : 794 / défaites : 1206
+Strat 97 (AFSHINE DAURELLE) échoue face à 7 (Humeau Minimale) : victoires : 690 / défaites : 1310
+Strat 106 (RAPHAEL DEMERENS) échoue face à 7 (Humeau Minimale) : victoires : 828 / défaites : 1172
+Strat 109 (LAURINE DERBORD) échoue face à 7 (Humeau Minimale) : victoires : 838 / défaites : 1162
+Strat 110 (Thomas DEREAC) échoue face à 7 (Humeau Minimale) : victoires : 857 / défaites : 1143
+Strat 111 (HUGO DEROO) échoue face à 7 (Humeau Minimale) : victoires : 826 / défaites : 1174
+Strat 119 (DROUIN Mehdi) échoue face à 7 (Humeau Minimale) : victoires : 701 / défaites : 1299
+Strat 123 (ANTOINE DUFLOS) échoue face à 7 (Humeau Minimale) : victoires : 822 / défaites : 1178
+Strat 124 (Henri DUJARRIER) échoue face à 7 (Humeau Minimale) : victoires : 859 / défaites : 1141
+Strat 127 (MILAN DUVERNOY) échoue face à 7 (Humeau Minimale) : victoires : 703 / défaites : 1297
+Strat 128 (Guillaume Egu) échoue face à 7 (Humeau Minimale) : victoires : 603 / défaites : 1397
+Strat 132 (GUILLAUME FEMMINELLA) échoue face à 7 (Humeau Minimale) : victoires : 567 / défaites : 1433
+Strat 135 (CAMILLE FOREST) échoue face à 7 (Humeau Minimale) : victoires : 657 / défaites : 1343
+Strat 142 (Juliette Golfier) échoue face à 7 (Humeau Minimale) : victoires : 802 / défaites : 1198
+Strat 143 (CLARICE GOULET) échoue face à 7 (Humeau Minimale) : victoires : 497 / défaites : 1503
+Strat 144 (ANTONIN GOURAUD) échoue face à 7 (Humeau Minimale) : victoires : 706 / défaites : 1294
+Strat 145 (Gaspard GOURAUD) échoue face à 7 (Humeau Minimale) : victoires : 827 / défaites : 1173
+Strat 147 (PIERRE GRANDIN) échoue face à 7 (Humeau Minimale) : victoires : 460 / défaites : 1540
+Strat 150 (YANN GRINDA) échoue face à 7 (Humeau Minimale) : victoires : 820 / défaites : 1180
+Strat 152 ( SAMUEL GUAQUIERE ) échoue face à 7 (Humeau Minimale) : victoires : 458 / défaites : 1542
+Strat 154 (JEANNE GUIGNOT V2) échoue face à 7 (Humeau Minimale) : victoires : 635 / défaites : 1365
+Strat 159 (MAXIME HABIBIAN) échoue face à 7 (Humeau Minimale) : victoires : 616 / défaites : 1384
+Strat 161 (SOPHIE HAMEL) échoue face à 7 (Humeau Minimale) : victoires : 744 / défaites : 1256
+Strat 163 (JENS HARDT) échoue face à 7 (Humeau Minimale) : victoires : 811 / défaites : 1189
+Strat 164 (SELIM HASSANI) échoue face à 7 (Humeau Minimale) : victoires : 589 / défaites : 1411
+Strat 165 (LUCAS HAUSERMANN) échoue face à 7 (Humeau Minimale) : victoires : 505 / défaites : 1495
+Strat 169 (Thibault HURSON) échoue face à 7 (Humeau Minimale) : victoires : 606 / défaites : 1394
+Strat 172 (GABRIEL IVANES) échoue face à 7 (Humeau Minimale) : victoires : 730 / défaites : 1270
+Strat 174 (LOUIS JAHAN) échoue face à 7 (Humeau Minimale) : victoires : 611 / défaites : 1389
+Strat 179 (Antoine JONCHERAY) échoue face à 7 (Humeau Minimale) : victoires : 857 / défaites : 1143
+Strat 180 (CAMILLE JOUANNIC) échoue face à 7 (Humeau Minimale) : victoires : 864 / défaites : 1136
+Strat 182 (MIKAEL KARADEMIR v2) échoue face à 7 (Humeau Minimale) : victoires : 793 / défaites : 1207
+Strat 188 (NIRANJAN KULKARNI) échoue face à 7 (Humeau Minimale) : victoires : 738 / défaites : 1262
+Strat 189 (Harmony LABOUX) échoue face à 7 (Humeau Minimale) : victoires : 799 / défaites : 1201
+Strat 191 (ROMAIN LAGORSS v3) échoue face à 7 (Humeau Minimale) : victoires : 639 / défaites : 1361
+Strat 192 (LISE LANCELIN) échoue face à 7 (Humeau Minimale) : victoires : 711 / défaites : 1289
+Strat 193 (LANDY NICOLAS) échoue face à 7 (Humeau Minimale) : victoires : 752 / défaites : 1248
+Strat 194 (EMMA LARCHE) échoue face à 7 (Humeau Minimale) : victoires : 604 / défaites : 1396
+Strat 196 (GUILLAUME LE MARCHAND) échoue face à 7 (Humeau Minimale) : victoires : 588 / défaites : 1412
+Strat 197 (BAPTISTE LE MORVAN) échoue face à 7 (Humeau Minimale) : victoires : 587 / défaites : 1413
+Strat 198 (MATHEO LE PAIH) échoue face à 7 (Humeau Minimale) : victoires : 745 / défaites : 1255
+Strat 202 (François LEMERCIER) échoue face à 7 (Humeau Minimale) : victoires : 763 / défaites : 1237
+Strat 210 (Paul Longour) échoue face à 7 (Humeau Minimale) : victoires : 646 / défaites : 1354
+Strat 212 (Hugues LUROIS) échoue face à 7 (Humeau Minimale) : victoires : 671 / défaites : 1329
+Strat 219 (Nathan Malengreau) échoue face à 7 (Humeau Minimale) : victoires : 740 / défaites : 1260
+Strat 220 (THIBAULT MANSOT) échoue face à 7 (Humeau Minimale) : victoires : 636 / défaites : 1364
+Strat 221 (Louis MARANT) échoue face à 7 (Humeau Minimale) : victoires : 857 / défaites : 1143
+Strat 222 (JEANNE MARASSE) échoue face à 7 (Humeau Minimale) : victoires : 848 / défaites : 1152
+Strat 224 (ARTHUR MATA) échoue face à 7 (Humeau Minimale) : victoires : 859 / défaites : 1141
+Strat 227 (LOIC MEUZERET ) échoue face à 7 (Humeau Minimale) : victoires : 740 / défaites : 1260
+Strat 229 (MICELI Anthony) échoue face à 7 (Humeau Minimale) : victoires : 587 / défaites : 1413
+Strat 231 (Tanguy M) échoue face à 7 (Humeau Minimale) : victoires : 648 / défaites : 1352
+Strat 233 (Coralie Monnier) échoue face à 7 (Humeau Minimale) : victoires : 846 / défaites : 1154
+Strat 237 (ROMAIN MRAD V3) échoue face à 7 (Humeau Minimale) : victoires : 825 / défaites : 1175
+Strat 239 (ahmed NAIDJAH) échoue face à 7 (Humeau Minimale) : victoires : 838 / défaites : 1162
+Strat 242 (HOYANN NEVEU) échoue face à 7 (Humeau Minimale) : victoires : 696 / défaites : 1304
+Strat 246 (Grégoire PAUL v3) échoue face à 7 (Humeau Minimale) : victoires : 502 / défaites : 1498
+Strat 250 (Lilou PETITCOLAS--LASSALLE) échoue face à 7 (Humeau Minimale) : victoires : 504 / défaites : 1496
+Strat 251 (Mathieu PHILIPPOT 2.0) échoue face à 7 (Humeau Minimale) : victoires : 658 / défaites : 1342
+Strat 259 (ALBAN PONGE) échoue face à 7 (Humeau Minimale) : victoires : 663 / défaites : 1337
+Strat 260 (EMILIE POSIERE) échoue face à 7 (Humeau Minimale) : victoires : 616 / défaites : 1384
+Strat 265 (ISAAC RAZAFINDRALAMBO) échoue face à 7 (Humeau Minimale) : victoires : 611 / défaites : 1389
+Strat 270 (Ida Roda) échoue face à 7 (Humeau Minimale) : victoires : 839 / défaites : 1161
+Strat 272 (NINON ROLLET) échoue face à 7 (Humeau Minimale) : victoires : 480 / défaites : 1520
+Strat 275 (Amandine ROURE) échoue face à 7 (Humeau Minimale) : victoires : 624 / défaites : 1376
+Strat 279 (Simon Roux-Lasfargeas) échoue face à 7 (Humeau Minimale) : victoires : 747 / défaites : 1253
+Strat 280 (ANNA RUIZ) échoue face à 7 (Humeau Minimale) : victoires : 770 / défaites : 1230
+Strat 281 (Simon SABBAN) échoue face à 7 (Humeau Minimale) : victoires : 872 / défaites : 1128
+Strat 284 (charles thibault sanchez) échoue face à 7 (Humeau Minimale) : victoires : 625 / défaites : 1375
+Strat 286 (ROMAIN SCHNEIDER) échoue face à 7 (Humeau Minimale) : victoires : 676 / défaites : 1324
+Strat 288 (CHARLES SENECAT) échoue face à 7 (Humeau Minimale) : victoires : 540 / défaites : 1460
+Strat 290 (zhengwei 678) échoue face à 7 (Humeau Minimale) : victoires : 542 / défaites : 1458
+Strat 291 (NATHAN SIEBATCHEU V2.5) échoue face à 7 (Humeau Minimale) : victoires : 794 / défaites : 1206
+Strat 293 (Jonathan SOETE) échoue face à 7 (Humeau Minimale) : victoires : 428 / défaites : 1572
+Strat 295 (Matis Spinelli) échoue face à 7 (Humeau Minimale) : victoires : 767 / défaites : 1233
+Strat 297 (NICOLAS STOCKINGER) échoue face à 7 (Humeau Minimale) : victoires : 552 / défaites : 1448
+Strat 301 (VALENTIN TALIO) échoue face à 7 (Humeau Minimale) : victoires : 757 / défaites : 1243
+Strat 304 (AURELIEN TERRADES) échoue face à 7 (Humeau Minimale) : victoires : 612 / défaites : 1388
+Strat 308 (LOUIS THUILLIER) échoue face à 7 (Humeau Minimale) : victoires : 568 / défaites : 1432
+Strat 312 (CHLOE TOURNOY) échoue face à 7 (Humeau Minimale) : victoires : 833 / défaites : 1167
+Strat 314 (Rémi TROUILLARD) échoue face à 7 (Humeau Minimale) : victoires : 703 / défaites : 1297
+Strat 319 (MARC VAUDOISET) échoue face à 7 (Humeau Minimale) : victoires : 851 / défaites : 1149
+Strat 320 (HUGO VERCLYTTE) échoue face à 7 (Humeau Minimale) : victoires : 736 / défaites : 1264
+Strat 321 (ELIAS VIGNAUD) échoue face à 7 (Humeau Minimale) : victoires : 775 / défaites : 1225
+Strat 323 (MATHIEU VITELLARO) échoue face à 7 (Humeau Minimale) : victoires : 864 / défaites : 1136
+Strat 325 (Noa Willeman ) échoue face à 7 (Humeau Minimale) : victoires : 448 / défaites : 1552
+Strat 327 (JEAN-GUY WINTREBERT) échoue face à 7 (Humeau Minimale) : victoires : 826 / défaites : 1174
+Strat 328 (JASON WÜRSTEN) échoue face à 7 (Humeau Minimale) : victoires : 736 / défaites : 1264
+Strat 329 (MOHAMMED-SAMI YAKINE V2.21) échoue face à 7 (Humeau Minimale) : victoires : 811 / défaites : 1189
+Strat 331 (Sultan Yusurov) échoue face à 7 (Humeau Minimale) : victoires : 568 / défaites : 1432
+Strat 334 (ENES ZIDOURI) échoue face à 7 (Humeau Minimale) : victoires : 562 / défaites : 1438
+Strat 336 (STRA TEST) échoue face à 7 (Humeau Minimale) : victoires : 450 / défaites : 1550
+Strat 338 (RAPHAEL DELAGE) échoue face à 7 (Humeau Minimale) : victoires : 772 / défaites : 1228
+Strat 339 (Raphaël DESCHILDRE) échoue face à 7 (Humeau Minimale) : victoires : 688 / défaites : 1312
+Strat 341 (MAHAMMED ELSHARKAWY VF) échoue face à 7 (Humeau Minimale) : victoires : 706 / défaites : 1294
+Strat 342 (VALENTIN FREYERMUTH) échoue face à 7 (Humeau Minimale) : victoires : 736 / défaites : 1264
+Strat 343 (Diane Hamlat) échoue face à 7 (Humeau Minimale) : victoires : 462 / défaites : 1538
+Strat 344 (ESTEBAN HERNANDEZ) échoue face à 7 (Humeau Minimale) : victoires : 834 / défaites : 1166
+Strat 345 (Aurelien MAGINOT) échoue face à 7 (Humeau Minimale) : victoires : 623 / défaites : 1377
+Strat 346 (ENDALE-FLAVIE MOUSSONGO v2) échoue face à 7 (Humeau Minimale) : victoires : 596 / défaites : 1404
+Strat 348 (Luka Pascual) échoue face à 7 (Humeau Minimale) : victoires : 741 / défaites : 1259
+Strat 349 (CHARLOTTE PIERREY) échoue face à 7 (Humeau Minimale) : victoires : 672 / défaites : 1328
+Strat 350 (ENZO SCHREYER) échoue face à 7 (Humeau Minimale) : victoires : 845 / défaites : 1155
+Strat 351 (THAMBIRAJAH Shayuren) échoue face à 7 (Humeau Minimale) : victoires : 856 / défaites : 1144
+Strat 353 (PRUNE WONG) échoue face à 7 (Humeau Minimale) : victoires : 811 / défaites : 1189
+--------- Strat prof --------- Humeau Minimal --------- Pallier : 11 (indicatif) 
+Strat 91 (91) échoue face à 6 (Franck Tempet) : victoires : 835 / défaites : 1165
+Strat 170 (Tanguy HUSSER) échoue face à 6 (Franck Tempet) : victoires : 871 / défaites : 1129
+Strat 195 (YOUENN LE GALL) échoue face à 6 (Franck Tempet) : victoires : 867 / défaites : 1133
+Strat 282 (Donia SAKJI v28231-1.2++sansduel~('|~|')~~~) échoue face à 6 (Franck Tempet) : victoires : 868 / défaites : 1132
+Strat 298 (LUCIEN STOVEN) échoue face à 6 (Franck Tempet) : victoires : 822 / défaites : 1178
+Strat 307 (Ilyes Thery) échoue face à 6 (Franck Tempet) : victoires : 844 / défaites : 1156
+Strat 315 (Leandre TUESTA v6) échoue face à 6 (Franck Tempet) : victoires : 845 / défaites : 1155
+Strat 318 (ELIOTT VASLIN v3) échoue face à 6 (Franck Tempet) : victoires : 838 / défaites : 1162
+Strat 337 (CLEMENT BAUDOIN V4) échoue face à 6 (Franck Tempet) : victoires : 770 / défaites : 1230
+--------- Strat prof --------- Franck1 --------- Pallier : 11 (indicatif) 
+Strat 186 (Timothe KOBAK) échoue face à 5 (Humeau 3) : victoires : 859 / défaites : 1141
+Strat 226 (Mathilde Mesureur v9) échoue face à 5 (Humeau 3) : victoires : 854 / défaites : 1146
+Strat 264 (MAHO RANDRIA) échoue face à 5 (Humeau 3) : victoires : 845 / défaites : 1155
+Strat 269 (THOMAS RICHER) échoue face à 5 (Humeau 3) : victoires : 858 / défaites : 1142
+Strat 333 (Marcel Zeng) échoue face à 5 (Humeau 3) : victoires : 865 / défaites : 1135
+--------- Strat prof --------- Jérémie1 --------- Pallier : 13 (indicatif) 
+Strat 37 (Victor Berhault V3.2) échoue face à 4 (Franck Tempet) : victoires : 847 / défaites : 1153
+Strat 44 (LOUIS BLIN 112) échoue face à 4 (Franck Tempet) : victoires : 835 / défaites : 1165
+Strat 55 (Yanis BOUZAIDI) échoue face à 4 (Franck Tempet) : victoires : 821 / défaites : 1179
+Strat 81 (LUCAS CLAVOS pour 20/12 00h) échoue face à 4 (Franck Tempet) : victoires : 844 / défaites : 1156
+Strat 85 (EDGARD COSSONv2) échoue face à 4 (Franck Tempet) : victoires : 837 / défaites : 1163
+Strat 129 (INES EL HADRI (pitié)) échoue face à 4 (Franck Tempet) : victoires : 780 / défaites : 1220
+Strat 148 (TEST) échoue face à 4 (Franck Tempet) : victoires : 801 / défaites : 1199
+Strat 158 (JULES GUYARD) échoue face à 4 (Franck Tempet) : victoires : 856 / défaites : 1144
+Strat 160 (MATHIS HADINGER V2.1) échoue face à 4 (Franck Tempet) : victoires : 833 / défaites : 1167
+Strat 190 (Jeanne) échoue face à 4 (Franck Tempet) : victoires : 844 / défaites : 1156
+Strat 199 (ARNAUD LEBAUDY) échoue face à 4 (Franck Tempet) : victoires : 811 / défaites : 1189
+Strat 241 (LUCAS NAURY65) échoue face à 4 (Franck Tempet) : victoires : 819 / défaites : 1181
+Strat 255 (Baptiste Plagne v2.1 (.58) (4/0)) échoue face à 4 (Franck Tempet) : victoires : 834 / défaites : 1166
+Strat 268 (LOUISON RIBOUCHON3) échoue face à 4 (Franck Tempet) : victoires : 771 / défaites : 1229
+Strat 276 (DORIAN ROUSSE) échoue face à 4 (Franck Tempet) : victoires : 838 / défaites : 1162
+Strat 277 (Nathan Rousseaut) échoue face à 4 (Franck Tempet) : victoires : 801 / défaites : 1199
+Strat 289 (ELIOT SHAW) échoue face à 4 (Franck Tempet) : victoires : 796 / défaites : 1204
+Strat 309 (VINCENT TOSSOU) échoue face à 4 (Franck Tempet) : victoires : 866 / défaites : 1134
+Strat 326 (ADRIEN WILS V5) échoue face à 4 (Franck Tempet) : victoires : 864 / défaites : 1136
+Strat 330 (CHRISTOPHE YE) échoue face à 4 (Franck Tempet) : victoires : 815 / défaites : 1185
+--------- Strat prof --------- Franck2 --------- Pallier : 16 (indicatif) 
+MALO HENNINGER (167)	0	(5 / 9)	0	3	
+MATEO VILLAIN (322)	2	(6 / 5)	0	1	
+BALTHAZAR TACK (299)	2	(8 / 4)	0	1	
+ELIE SALEH (283)	2	(6 / 7)	0	1	
+Fin du dernier run à : 2022/12/21 22:42:27
